@@ -1,5 +1,5 @@
 # Bem vindo ao meu github!
-## <a href="https://www.andrewsgoes.qzz.io/"> <b>Meu site</b> </a>
+## <a href="http://www.organtriode.duckdns.org"> <b>Meu site</b> </a>
 
 ## Linguagens e Tecnologias:
 <p align="left">
